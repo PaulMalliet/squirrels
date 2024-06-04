@@ -34,11 +34,13 @@ You can install the development version of squirrels like so:
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(squirrels)
+#library(squirrels)
 ## basic example code
 ```
 
 ```{r}
-get_df_nrows(data = iris)
+#get_df_nrows(data = iris)
 ```
 
+## Infos 
+Ce package a été créé dans le cadre d’une formation N2

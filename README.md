@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of squirrels is to …
+The goal of squirrels is to duck around Central Park
 
 ## Installation
 
@@ -21,12 +21,14 @@ You can install the development version of squirrels like so:
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(squirrels)
+#library(squirrels)
 ## basic example code
 ```
 
 ``` r
-get_df_nrows(data = iris)
-#> The dataset is composed of 150 rows
-#> [1] 150
+#get_df_nrows(data = iris)
 ```
+
+## Infos
+
+Ce package a été créé dans le cadre d’une formation N2
